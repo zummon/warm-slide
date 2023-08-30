@@ -36,8 +36,8 @@
 	</div>
 </div>
 
-<div class="flex flex-wrap h-screen text-red-500 bg-cover" style="background-image: url()">
-	<div class="w-5/12 p-12 ml-auto">
+<div class="flex flex-wrap h-screen text-red-500 bg-contain bg-no-repeat" style="background-image: url(https://cdn.leonardo.ai/users/fa23343a-7b20-40df-bc29-a1fb7df390c9/generations/486552f8-3c67-4597-8e41-99aa6b577737/variations/Default_quill_feather_pen_drawing_a_colorfull_line_vivid_color_0_486552f8-3c67-4597-8e41-99aa6b577737_1.jpg)">
+	<div class="w-5/12 p-12 ml-auto bg-white h-fit my-auto">
 		<h3 class="text-6xl mb-6">You're invited!</h3>
 		<p class="mb-4 text-xl">
 			We're tying the knot! We hope you can go the miles to join us on this milestone.
