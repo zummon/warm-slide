@@ -2,6 +2,10 @@
 export default {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
+		fontFamily: {
+			sans: ['Forum', 'cursive'],
+			serif: ['Playfair Display', 'serif']
+		},
 		extend: {}
 	},
 	plugins: []
