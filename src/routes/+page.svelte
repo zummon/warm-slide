@@ -45,3 +45,19 @@
 		<button class="py-4 px-12 border-2 border-red-500">RSVP Now</button>
 	</div>
 </div>
+
+<div class="flex flex-wrap h-screen text-red-500">
+	<div class="w-5/12 p-12 bg-white h-fit my-auto">
+		<h3 class="text-5xl mb-6">Ceremony</h3>
+		<p class="mb-4">
+			Beauray Park
+			408 Byers Lane 
+		</p>
+		<p class="">
+			10:00 AM
+		</p>
+	</div>
+	<div class="">
+		<img src="https://cdn.leonardo.ai/users/720e8bb2-0d09-445a-a983-51f8747dc5fe/generations/733b49bf-5b04-4012-b3e2-969f3452d778/variations/Default_awesome_realistic_dinosaur_website_logo_using_a_a_pla_1_733b49bf-5b04-4012-b3e2-969f3452d778_1.jpg" alt="" class="w-7/12">
+	</div>
+</div>
