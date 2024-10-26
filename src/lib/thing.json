@@ -1,0 +1,16 @@
+{
+	"things": [
+		{
+			"img": "https://i.imgur.com/s3njmLL.jpeg",
+			"cd": "https://cdn.leonardo.ai/users/24bc1101-1dcf-4dcd-954e-338a7622bf1c/generations/d003b17d-4a17-40ec-91bf-71eed372b02e/3D_Animation_Style_high_resolution_8K_HD_Photorealistic_ultra_0.jpg"
+		},
+		{
+			"img": "https://i.imgur.com/sHBeNHL.jpeg",
+			"cd": "https://cdn.leonardo.ai/users/9b0b4f3d-4150-4783-bc05-6a223ba9e94a/generations/1bf9be25-fcaf-407f-a7f2-338f90f32332/Default_Masterpiece_super_realism_photo_real_very_high_detail_1.jpg"
+		},
+		{
+			"img": "https://i.imgur.com/Ue0CTKM.jpeg",
+			"cd": "https://cdn.leonardo.ai/users/f15a086a-07ee-4876-afed-02ed5acc5944/generations/f61958f7-c112-4d62-b126-be7b12ce1cfc/Leonardo_Vision_XL_A_stunning_theater_costume_mockup_with_intr_1.jpg"
+		}
+	]
+}
