@@ -6,15 +6,30 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<div class="flex items-center flex-col h-screen justify-evenly text-red-500">
-	<span class="">06. 20. 2025</span>
-	<h1 class="text-6xl">Frankie & Teagan</h1>
-	<p class="max-w-xs text-center font-serif">
-		We're finally tying the knot! Come celebrate with us, and be a part of our story.
-	</p>
+<div class="flex items-center flex-col h-screen justify-evenly text-red-500 relative text-center">
+	<div class="">
+		<span class="">06. 20. 2025</span>
+	</div>
+	<div class="">
+		<h1 class="text-6xl">Warm & slide</h1>
+	</div>
+	<div class="max-w-xs">
+		<p class=" text-center font-serif">
+			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere dicta itaque architecto sint praesentium dolorum
+			quos ipsum? Autem, iste eius.
+		</p>
+	</div>
+	<div class="bottom-0 text-center fixed">
+		<a class="" href="#1">
+			<!-- https://fonts.google.com/icons?selected=Material+Symbols+Outlined:keyboard_arrow_down:FILL@0;wght@400;GRAD@0;opsz@40&icon.query=down&icon.size=40&icon.color=currentColor -->
+			<svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px" fill="currentColor"
+				><path d="M480-344 240-584l47.33-47.33L480-438.67l192.67-192.66L720-584 480-344Z" /></svg
+			>
+		</a>
+	</div>
 </div>
 
-<div class="flex flex-wrap h-screen text-red-500">
+<div class="flex flex-wrap h-screen text-red-500" id="1">
 	<div class="p-6 flex-1">
 		<h3 class="text-5xl mb-6">Our Story</h3>
 		<!-- https://cdn.leonardo.ai/users/8860330a-a9fd-454d-acd4-a95c77d23b8b/generations/c19400aa-0a54-42b4-a5d0-acc054da38d6/variations/Default_Sidecut_hairVi_arcane_Sidecut_hair_teenager_rock_jacke_3_c19400aa-0a54-42b4-a5d0-acc054da38d6_1.jpg -->

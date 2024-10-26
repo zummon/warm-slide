@@ -1,9 +1,11 @@
 <script>
 	import '../app.css';
-	let {children}= $props()
+	let { children, data } = $props()
 </script>
 
 <div class="">
-{@render children()}
+	{#key data.path}
+		{@render children()}
+	{/key}
 </div>
 
